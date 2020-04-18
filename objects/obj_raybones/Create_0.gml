@@ -1,0 +1,1 @@
+playerDirection = "forward";
