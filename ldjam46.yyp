@@ -63,11 +63,59 @@
             }
         },
         {
+            "Key": "1e63150d-4647-486c-90a8-aaccf2f22c98",
+            "Value": {
+                "id": "80fce6fd-4ebf-4539-bc43-f44c3682353e",
+                "resourcePath": "sprites\\spr_net\\spr_net.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25835fcc-1e92-4c21-9f1f-9277343e9160",
+            "Value": {
+                "id": "b911c02a-118b-4055-8ffe-3710ad21307f",
+                "resourcePath": "rooms\\rlpTestRoom\\rlpTestRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "28760cdf-3421-40db-b6fa-0278938bc68b",
+            "Value": {
+                "id": "7a32e2a8-f790-43a6-b3ec-c89c98aceaf3",
+                "resourcePath": "objects\\obj_net\\obj_net.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b498c41-3210-425f-8783-a6160a444bd4",
             "Value": {
                 "id": "4fa09bd0-a738-4918-bf46-1b3453695b0f",
                 "resourcePath": "views\\2b498c41-3210-425f-8783-a6160a444bd4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "50f03160-a8f6-4138-91d6-bf2fdb25e9c2",
+            "Value": {
+                "id": "eda299ec-c436-4e69-af07-81847a9940e6",
+                "resourcePath": "objects\\obj_border\\obj_border.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5b6e03da-119f-4b8b-832f-d6d384debb62",
+            "Value": {
+                "id": "5f70a9da-0789-4340-b225-0c24e3aa21c8",
+                "resourcePath": "sprites\\spr_border\\spr_border.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ebdfe49-5c29-49c6-ac64-57a8013df976",
+            "Value": {
+                "id": "f5940e3b-09c0-4676-b305-d1d2ad905365",
+                "resourcePath": "objects\\obj_raybones\\obj_raybones.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -124,6 +172,14 @@
                 "id": "40104497-14ac-4d8c-b1bb-6c3ed3a28b0c",
                 "resourcePath": "views\\aa19699c-aa0e-48cc-82fe-3f5be92235b4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c4d79c51-e79e-43b9-b676-0d2a44621e2a",
+            "Value": {
+                "id": "8cb69e26-8ce2-4ae5-9850-bcac8bc723ce",
+                "resourcePath": "sprites\\spr_raybones\\spr_raybones.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
