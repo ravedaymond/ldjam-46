@@ -1,4 +1,6 @@
 target = noone;
-spd = 2;
 arcStep = 0;
-arcSpeed = room_speed;
+arcSpeed = 120;
+spd = 2;
+yrandarc = 50;
+lastHit = noone;

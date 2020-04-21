@@ -1,1 +1,1 @@
-playerDirection = "forward";
+playerDirection = "left";

@@ -1,5 +1,5 @@
 /// @description 
 width = x+sprite_width;
-halfCourt = width/2;
+halfCourt = sprite_width/2 + x;
 height = y+sprite_height;
-halfSide = height/2;
+halfSide = sprite_height/2 +y;
